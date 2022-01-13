@@ -1,0 +1,24 @@
+.img {
+  margin-top: 19px;
+  margin-left: 29px;
+  width: 83px;
+  height: 52px;
+}
+
+.navbar {
+  display: flex;
+  width: 50%;
+}
+
+.navbarButton {
+  display: flex;
+  margin-top: 42px;
+  margin-left: 20px;
+  width: 400px;
+  height: 23px;
+  text-align: left;
+  letter-spacing: 0px;
+  color: #939393;
+  opacity: 1;
+	justify-content: space-around;
+}

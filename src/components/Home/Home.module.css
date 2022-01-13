@@ -1,0 +1,135 @@
+.home {
+  /* margin-top: 61px; */
+  margin-left: 30px;
+  width: 920px;
+  height: 1019px;
+  opacity: 1;
+  border: 1px solid grey;
+  display: flex;
+  flex-direction: column;
+}
+
+.helloWorld {
+  margin-top: 179px;
+  width: 137px;
+  height: 26px;
+  text-align: left;
+  letter-spacing: 0px;
+  color: #9e9e9e;
+  opacity: 1;
+}
+
+.box {
+  margin-left: 110px;
+}
+
+.hugeText {
+  width: 570px;
+  height: 163px;
+  text-align: left;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  font-size: 50px;
+  font-weight: 700;
+}
+
+.button {
+  margin-top: 20px;
+  height: 28px;
+  padding: 20px 40px 35px 40px;
+  text-align: left;
+  letter-spacing: 0px;
+  color: white;
+  opacity: 1;
+  border: none;
+  background-color: #ff9700;
+}
+
+.secondBox {
+  margin-left: 110px;
+  /* margin-top: 240px; */
+}
+
+.threeBox {
+  display: flex;
+  gap: 5px;
+}
+
+.webDesign {
+  margin-top: 240px;
+  width: 250px;
+  background-color: #fbfbfb;
+  height: 331px;
+  border-top: 3px solid red;
+}
+
+.digitalArtWork {
+  margin-top: 316px;
+  width: 250px;
+  background-color: #fbfbfb;
+  height: 255px;
+  border-top: 3px solid blue;
+}
+
+.website {
+  margin-top: 150px;
+  width: 250px;
+  background-color: #fbfbfb;
+  height: 420px;
+  border-top: 3px solid green;
+}
+
+.logo {
+  margin-top: 40px;
+	width: 44px;
+height: 45px;
+}
+
+.insideBox {
+  margin-left: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+.textFont {
+  width: 200px;
+  height: 56px;
+	margin-top: 40px;
+	font-weight: 600;
+}
+
+.smallText {
+	width: 200px;
+height: 63px;
+text-align: left;
+letter-spacing: 0px;
+color: #5E5E5E;
+opacity: 1;
+}
+
+.iconColor1 {
+	color: red;
+}
+
+.iconColor2 {
+	color: blue;
+}
+
+.iconColor3 {
+	color: green;
+}
+
+.logo3 {
+		margin-top: 80px;
+		width: 44px;
+	height: 45px;
+	
+}
+
+.textFont2 {
+  width: 200px;
+  height: 26px;
+	margin-top: 35px;
+	font-weight: 600;
+} 
